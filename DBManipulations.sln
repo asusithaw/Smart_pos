@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBManipulations", "DBManipulations\DBManipulations.csproj", "{0991810F-3816-437F-A8CD-3DF68BEA7C81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0991810F-3816-437F-A8CD-3DF68BEA7C81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0991810F-3816-437F-A8CD-3DF68BEA7C81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0991810F-3816-437F-A8CD-3DF68BEA7C81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0991810F-3816-437F-A8CD-3DF68BEA7C81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2F61EBC-BF43-439D-89DA-48C03557E327}
+	EndGlobalSection
+EndGlobal

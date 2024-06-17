@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.net\\DBManipulations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0991810F-3816-437F-A8CD-3DF68BEA7C81}|DBManipulations\\DBManipulations.csproj|d:\\asp.net\\dbmanipulations\\dbmanipulations\\nhibernatehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0991810F-3816-437F-A8CD-3DF68BEA7C81}|DBManipulations\\DBManipulations.csproj|solutionrelative:dbmanipulations\\nhibernatehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0991810F-3816-437F-A8CD-3DF68BEA7C81}|DBManipulations\\DBManipulations.csproj|d:\\asp.net\\dbmanipulations\\dbmanipulations\\entities\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0991810F-3816-437F-A8CD-3DF68BEA7C81}|DBManipulations\\DBManipulations.csproj|solutionrelative:dbmanipulations\\entities\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0991810F-3816-437F-A8CD-3DF68BEA7C81}|DBManipulations\\DBManipulations.csproj|d:\\asp.net\\dbmanipulations\\dbmanipulations\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0991810F-3816-437F-A8CD-3DF68BEA7C81}|DBManipulations\\DBManipulations.csproj|solutionrelative:dbmanipulations\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0991810F-3816-437F-A8CD-3DF68BEA7C81}|DBManipulations\\DBManipulations.csproj|d:\\asp.net\\dbmanipulations\\dbmanipulations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0991810F-3816-437F-A8CD-3DF68BEA7C81}|DBManipulations\\DBManipulations.csproj|solutionrelative:dbmanipulations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "D:\\ASP.net\\DBManipulations\\DBManipulations\\Entities\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "DBManipulations\\Entities\\ProductCategory.cs",
+              "ToolTip": "D:\\ASP.net\\DBManipulations\\DBManipulations\\Entities\\ProductCategory.cs",
+              "RelativeToolTip": "DBManipulations\\Entities\\ProductCategory.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T18:01:52.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\ASP.net\\DBManipulations\\DBManipulations\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "DBManipulations\\Entities\\Customer.cs",
+              "ToolTip": "D:\\ASP.net\\DBManipulations\\DBManipulations\\Entities\\Customer.cs",
+              "RelativeToolTip": "DBManipulations\\Entities\\Customer.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T06:55:59.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NHibernateHelper.cs",
+              "DocumentMoniker": "D:\\ASP.net\\DBManipulations\\DBManipulations\\NHibernateHelper.cs",
+              "RelativeDocumentMoniker": "DBManipulations\\NHibernateHelper.cs",
+              "ToolTip": "D:\\ASP.net\\DBManipulations\\DBManipulations\\NHibernateHelper.cs",
+              "RelativeToolTip": "DBManipulations\\NHibernateHelper.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAlwB0AAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T06:52:09.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP.net\\DBManipulations\\DBManipulations\\Program.cs",
+              "RelativeDocumentMoniker": "DBManipulations\\Program.cs",
+              "ToolTip": "D:\\ASP.net\\DBManipulations\\DBManipulations\\Program.cs",
+              "RelativeToolTip": "DBManipulations\\Program.cs",
+              "ViewState": "AQIAAAIBAAAAAAAAAAAIwBMBAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T06:21:31.775Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
